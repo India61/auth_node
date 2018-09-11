@@ -1,0 +1,27 @@
+[
+  {
+    "email": "demo@krati.se",
+    "id": 1536667502317,
+    "password": "$2a$10$QV4NWWXGM8Rd1a.qw07ruOlzPPeaLEn63TDM8wHffD.no8EhAIpmy"
+  },
+  {
+    "email": "demo@krati.se",
+    "id": 1536667622491,
+    "password": "$2a$10$RJMFGR7mrB36xunDh1ucR.08CBLbxRvt85iLc4J2CAYvExdklqUhC"
+  },
+  {
+    "email": "demo@krati.se",
+    "id": 1536667677928,
+    "password": "$2a$10$DoG6IUinvkxi6RCsT8H9IOmKAwhHzWE5fKcvJT7GK6gvccf64zXea"
+  },
+  {
+    "email": "demo@krati.se",
+    "id": 1536667748087,
+    "password": "$2a$10$rj5bNoE8dFS9F04c5VyKxeUaWZhugdL8KQFBAmVPkOxy2wJq/zo3a"
+  },
+  {
+    "email": "demo@krati.se",
+    "id": 1536667749224,
+    "password": "$2a$10$W3h2TKmPlqjxSYR9GYv1n.Ct7TVWsDv4gl8Vr86xfEcsaJEabZC2."
+  }
+]
